@@ -1,0 +1,17 @@
+>Sequence identifier
+CTARGCTAGYTSGCATCATHC
+>Another unambiguous sequence identifier (first)
+CTAGGCTAGTTCGCATCATTC
+>Another unambiguous sequence identifier (second)
+CTAAGCTAGCTCGCATCATTC
+>Another unambiguous sequence identifier (third)
+CTAGGCTAGTTGGCATCATTC
+>Reverse unambiguous sequence identifier (first)
+CTTACTACGCTTGATCGGATC
+>Complementary unambiguous sequence identifier (first)
+GATCCGATCAAGCGTAGTAAG
+>Reverse/Complementary unambiguous sequence identifier (first)
+GAATGATGCGAACTAGCCTAG
+>Amino-acid chain
+LG*FASF
+
